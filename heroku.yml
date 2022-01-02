@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /mainbox/Dockerfile
+run:
+   worker: npm start
