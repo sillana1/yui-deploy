@@ -1,2 +1,0 @@
-# yui-deploy
-YuiChan
